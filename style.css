@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    
+}
+h1{
+    text-transform: uppercase;
+    color: orange;
+    font-size: 3rem;
+}
+.pos{
+    margin-left: 25%;
+    margin-top: 100px;
+    width: 50%;
+    text-align: center;
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-size: 2rem;
+}
+.mi{
+width: 100%;
+border: 5px solid orange;
+}
